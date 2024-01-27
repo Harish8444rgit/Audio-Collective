@@ -1,4 +1,4 @@
-console.log("welcome to Spotify");
+console.log("welcome to Audio Collective");
 
 
 // intialize the variable
